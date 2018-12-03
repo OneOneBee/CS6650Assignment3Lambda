@@ -1,0 +1,5 @@
+com/amazonaws/lambda/demo/GetCurrentHandler.class
+com/amazonaws/lambda/demo/ServerDao.class
+com/amazonaws/lambda/demo/PostHandler.class
+com/amazonaws/lambda/demo/ConnectionManage.class
+com/amazonaws/lambda/demo/GetGivenHandler.class
